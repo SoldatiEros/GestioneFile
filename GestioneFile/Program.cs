@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 namespace GestioneFile
 {
     internal class Program
-    {
+    {    
+    //Commento di prova
         static void Main(string[] args)
         {
             Console.WriteLine("Inserisci il path");
